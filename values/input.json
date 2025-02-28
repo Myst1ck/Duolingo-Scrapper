@@ -1,0 +1,692 @@
+{
+	"learnedLexemes": [
+		{
+			"text": "Touristen",
+			"translations": ["tourists"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/00ee3ba52e6c39a11a3356efada330bd",
+			"isNew": true
+		},
+		{
+			"text": "Schloss",
+			"translations": [
+				"castle",
+				"palace",
+				"lock",
+				"chateau",
+				"mansion",
+				"manor house"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bc9ed6512f60a58575b0b1520b2de8f1",
+			"isNew": true
+		},
+		{
+			"text": "Brandenburger Tor",
+			"translations": ["Brandenburg Gate"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d34b30668eba2413e00425aeabae894d",
+			"isNew": true
+		},
+		{
+			"text": "Neuschwanstein",
+			"translations": ["Neuschwanstein Castle"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b57625532a8807e9ea2a977b84e22573",
+			"isNew": true
+		},
+		{
+			"text": "besichtigen",
+			"translations": [
+				"are touring",
+				"saw",
+				"tour",
+				"visit",
+				"will tour",
+				"visiting"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cd97ba0d22da780010c9d407dd2ff3fe",
+			"isNew": true
+		},
+		{
+			"text": "Wörterbuch",
+			"translations": ["dictionary", "wordbook"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2f9354ff653c5fec894b5b7a2acb6b01",
+			"isNew": true
+		},
+		{
+			"text": "Brille",
+			"translations": ["glasses", "spectacles", "eyeglasses"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e2b00486875299658f8e54d028eb2a50",
+			"isNew": true
+		},
+		{
+			"text": "Laptop",
+			"translations": ["laptop"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/80e6007fce46db27c78b1d2c23305736",
+			"isNew": true
+		},
+		{
+			"text": "zweihundert",
+			"translations": ["two hundred"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/96bdb058a955afcea9a4fabb16ef8c11",
+			"isNew": true
+		},
+		{
+			"text": "Kamera",
+			"translations": ["camera"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c2c4dbbf3f06045caf0c3a5cdeb17db4",
+			"isNew": true
+		},
+		{
+			"text": "öffnen",
+			"translations": ["open", "open up", "opening", "access"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/61b329b4e8317a1bea6a4d7f142e3ee8",
+			"isNew": true
+		},
+		{
+			"text": "grau",
+			"translations": ["gray", "grey"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b3a36f0d8f2178c21d483c0ed738c4c9",
+			"isNew": true
+		},
+		{
+			"text": "Koffer",
+			"translations": ["suitcase", "bag"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3a08193cb4f301c4528b5768886b68ed",
+			"isNew": true
+		},
+		{
+			"text": "lila",
+			"translations": ["purple", "lilac"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c0856a11d6c8676f9d316de8b5580d59",
+			"isNew": true
+		},
+		{
+			"text": "Problem",
+			"translations": ["problem"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c58d610d3087d478758aa866036ea438",
+			"isNew": true
+		},
+		{
+			"text": "Rucksack",
+			"translations": [
+				"backpack",
+				"rucksack",
+				"knapsack",
+				"pack",
+				"haversack"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3ed6a71234e1184f5fd3e72dfababf14",
+			"isNew": true
+		},
+		{
+			"text": "verboten",
+			"translations": [
+				"prohibited",
+				"forbidden",
+				"not allowed",
+				"banned"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1310c6a3539b776d35252a29bf925f11",
+			"isNew": true
+		},
+		{
+			"text": "zum Schalter",
+			"translations": ["to counter"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/22b1ec3232f1935911bafde75bd5fed2",
+			"isNew": true
+		},
+		{
+			"text": "richtig",
+			"translations": ["correct", "right", "accurate", "true"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1ce6fde8f9d1a8f21d0c2f8045915643",
+			"isNew": true
+		},
+		{
+			"text": "Kugelschreiber",
+			"translations": ["pen", "biro", "ballpoint pen", "ball pen"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c4e1087ba1fc547b49491f5949041abf",
+			"isNew": true
+		},
+		{
+			"text": "Formular",
+			"translations": ["form", "questionnaire"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3c0eb9531ae25af4d91e142d70be307a",
+			"isNew": true
+		},
+		{
+			"text": "unterschreiben",
+			"translations": ["sign"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4b066c6eb570cc52f0abcd0c6bc7778f",
+			"isNew": true
+		},
+		{
+			"text": "Moment",
+			"translations": ["moment"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6a336ed859ca4bfd258f650a77988834",
+			"isNew": true
+		},
+		{
+			"text": "Zoll",
+			"translations": ["customs", "customs office"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/22bcbf3bc16653b8f755c67db389a5d3",
+			"isNew": true
+		},
+		{
+			"text": "Wochen",
+			"translations": ["weeks"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/05439d33fcc7979f5f4b82fc8c7588e7",
+			"isNew": true
+		},
+		{
+			"text": "Flugnummer",
+			"translations": ["flight number"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f1dac4a8ce76d6bafbbd231e3c61ad74",
+			"isNew": true
+		},
+		{
+			"text": "Visum",
+			"translations": ["visa"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f9c5bcec5f69ac3badf2a2bf4e59da8e",
+			"isNew": true
+		},
+		{
+			"text": "Jahr",
+			"translations": ["year"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d979b4551dbee1c15279ea1fed4a38b5",
+			"isNew": true
+		},
+		{
+			"text": "vielleicht",
+			"translations": ["maybe", "perhaps"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a48d91a91b7e597436ba0200cc8f67d4",
+			"isNew": true
+		},
+		{
+			"text": "Februar",
+			"translations": ["February"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3f10bee5547efc38b5fc730087e3b4f5",
+			"isNew": true
+		},
+		{
+			"text": "nächsten",
+			"translations": ["next", "closest"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4d26026c335b378309debfff034ea259",
+			"isNew": true
+		},
+		{
+			"text": "August",
+			"translations": ["August"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f07d664f9d32a73a45e1088f9bdc1d81",
+			"isNew": true
+		},
+		{
+			"text": "Verwandten",
+			"translations": ["relatives"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0c1594dc68168eb0d0d2a392fda61973",
+			"isNew": true
+		},
+		{
+			"text": "Getränke",
+			"translations": ["drinks"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d3d62437da328cf6bc24abce865d0afc",
+			"isNew": true
+		},
+		{
+			"text": "Geschäfte",
+			"translations": ["stores", "businesses", "business"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9dc2eae9613935249e7c568c296d132c",
+			"isNew": true
+		},
+		{
+			"text": "geschlossen",
+			"translations": ["closed", "locked", "shut"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ead9bb00c1d31b02ca2d2dd612a8e2f6",
+			"isNew": true
+		},
+		{
+			"text": "Familie",
+			"translations": ["family"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a74b80a98d9c5ffaa4a113889ea3800a",
+			"isNew": true
+		},
+		{
+			"text": "Hausaufgaben",
+			"translations": ["homework", "homework assignments"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/736be91208115dfd08e74ec21529fe2e",
+			"isNew": true
+		},
+		{
+			"text": "Feiertag",
+			"translations": [
+				"holiday",
+				"bank holiday",
+				"public holiday",
+				"statutory holiday",
+				"federal holiday"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bcccd953abb714d6959e992a5fbabcdb",
+			"isNew": true
+		},
+		{
+			"text": "Stunden",
+			"translations": ["lessons", "hours", "classes"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0229176d90dae79fa8f27d4aad145006",
+			"isNew": true
+		},
+		{
+			"text": "müsst",
+			"translations": ["have to", "need to", "have got to"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5fde98fcf4a6e30f838a9af58e56158d",
+			"isNew": true
+		},
+		{
+			"text": "Stunde",
+			"translations": ["hour"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/25a1e188cbc3554b17ebe6d30035f5a5",
+			"isNew": true
+		},
+		{
+			"text": "kurz",
+			"translations": ["short", "brief"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ec91a7548c5baf5c75e04ca418b23b28",
+			"isNew": true
+		},
+		{
+			"text": "langweilig",
+			"translations": ["boring", "dull", "tedious"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/88a7cad60ffb9f3dfb0e73493209616d",
+			"isNew": true
+		},
+		{
+			"text": "diesen",
+			"translations": ["this", "that", "these", "those"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d1ebc9e175fa536d918d8c451dbf079f",
+			"isNew": true
+		},
+		{
+			"text": "Ausweis",
+			"translations": [
+				"ID card",
+				"ID",
+				"identification card",
+				"identification",
+				"identity card"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ae8e7237666ad4357c8431c6789573d0",
+			"isNew": true
+		},
+		{
+			"text": "Erwachsene",
+			"translations": ["adult", "adults"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a06a1dae95f553e825eca27b80b6308b",
+			"isNew": true
+		},
+		{
+			"text": "welchen",
+			"translations": ["which", "what"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a4827e241bdf2a8bd688029e4b5defc5",
+			"isNew": true
+		},
+		{
+			"text": "finden",
+			"translations": ["find"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7853a174add3661a0b7182510fbfe38d",
+			"isNew": true
+		},
+		{
+			"text": "Horrorfilm",
+			"translations": ["horror movie", "horror film"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5ec8a174c9baaf28ab078542b6a24431",
+			"isNew": true
+		},
+		{
+			"text": "Wochenende",
+			"translations": ["weekend"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/70c77ce3658aad3383118e5ff19f6602",
+			"isNew": true
+		},
+		{
+			"text": "vierzig",
+			"translations": ["forty"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/acf6eb1b78e71af31d91e4320b377338",
+			"isNew": true
+		},
+		{
+			"text": "Freitag",
+			"translations": ["Friday"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/74bfabaac2ef86edeb64e72d49d3b5a4",
+			"isNew": true
+		},
+		{
+			"text": "wohin",
+			"translations": ["where to", "where"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3a1b8e78428ccb30f8e445d29d61310c",
+			"isNew": true
+		},
+		{
+			"text": "schließt",
+			"translations": [
+				"is connecting",
+				"shuts",
+				"shut",
+				"close",
+				"connects",
+				"closes",
+				"end"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1835972d1368bcaa76c85819e2523a31",
+			"isNew": true
+		},
+		{
+			"text": "Biergarten",
+			"translations": ["beer garden"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9bed8646945407b50bd1afd5ae2dd682",
+			"isNew": true
+		},
+		{
+			"text": "jedes",
+			"translations": ["all", "every", "anything"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/99e932783c3d6ca488e8d675dff81f8f",
+			"isNew": true
+		},
+		{
+			"text": "hungrig",
+			"translations": ["hungry"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/76c8d7ccda5d9bee91d9379bad3a7093",
+			"isNew": true
+		},
+		{
+			"text": "Kekse",
+			"translations": ["cookies", "biscuits"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f23a2921893645f38c569c8e7e0a8127",
+			"isNew": true
+		},
+		{
+			"text": "Liter",
+			"translations": ["liters", "liter", "liters of"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/58795e63f60ad862fe1c43c5df114848",
+			"isNew": true
+		},
+		{
+			"text": "Flaschen",
+			"translations": ["bottles", "bottles of"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ca4a8fc3916d642a624be44739c62cfe",
+			"isNew": true
+		},
+		{
+			"text": "grün",
+			"translations": ["green"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e8a6ead89f7e51437a7fabd0dd2cebfa",
+			"isNew": true
+		},
+		{
+			"text": "Gras",
+			"translations": ["grass"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5aea241b5463341502745ea52964efd5",
+			"isNew": true
+		},
+		{
+			"text": "frisch",
+			"translations": ["fresh"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ff8ea459515966c9eb927716028305e3",
+			"isNew": true
+		},
+		{
+			"text": "Schokolade",
+			"translations": ["chocolate"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/2581cc1cd2946df5f29c147b6df3286f",
+			"isNew": true
+		},
+		{
+			"text": "Spinat",
+			"translations": ["spinach"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6b891561488b446e4c6c3c85d2cfbb44",
+			"isNew": true
+		},
+		{
+			"text": "Gemüse",
+			"translations": ["vegetables", "vegetable"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c4fc74503a6cc0a75218c1a35a420e3f",
+			"isNew": true
+		},
+		{
+			"text": "weniger",
+			"translations": ["less", "fewer"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4a6d670828b856fdf1710a4f2f678d2e",
+			"isNew": true
+		},
+		{
+			"text": "langsam",
+			"translations": ["slowly"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ca0cf8b5213696fb1ea1e941f5a93a6a",
+			"isNew": true
+		},
+		{
+			"text": "bekommt",
+			"translations": ["is getting", "getting", "get", "gets", "receive"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/879a7003b98453f77388b3b0534f1148",
+			"isNew": true
+		},
+		{
+			"text": "alles",
+			"translations": ["everything", "all"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/8c7cb2802f0918aede17ef1015561e09",
+			"isNew": true
+		},
+		{
+			"text": "Sauerkraut",
+			"translations": ["sauerkraut"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/72a38bbb6598f7870c0bb27e46dac164",
+			"isNew": true
+		},
+		{
+			"text": "Currywurst",
+			"translations": ["curry sausage", "currywurst", "curried sausage"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5d49e106c0be5996d21d2fc43fdf7531",
+			"isNew": true
+		},
+		{
+			"text": "Knödel",
+			"translations": ["dumplings"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f816e3927bfd61165dcdf964fb3828e4",
+			"isNew": true
+		},
+		{
+			"text": "Mayo",
+			"translations": ["mayo", "mayonnaise"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9f20d949aa0954da033e8612b59902c1",
+			"isNew": true
+		},
+		{
+			"text": "Brezel",
+			"translations": ["pretzel"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/307be8f3a75438a50a2c28e3b83c14e3",
+			"isNew": true
+		},
+		{
+			"text": "scharf",
+			"translations": ["spicy", "sharp", "hot", "pungent"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7a06ddf5d6905e67b883d60bd2e1c47d",
+			"isNew": true
+		},
+		{
+			"text": "Senf",
+			"translations": ["mustard"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c7d83f32904666fc332526021910702b",
+			"isNew": true
+		},
+		{
+			"text": "Eier",
+			"translations": ["eggs"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6337841f1aadbeaca200624b2951edfd",
+			"isNew": true
+		},
+		{
+			"text": "Nussallergie",
+			"translations": ["nut allergy"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3fbdc3a2565824f2897c4c3cc3d43005",
+			"isNew": true
+		},
+		{
+			"text": "ihn",
+			"translations": ["him"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/47dd64b7842a181ea42c4373bcdd9e6d",
+			"isNew": true
+		},
+		{
+			"text": "backen",
+			"translations": [
+				"bakes",
+				"baked",
+				"making",
+				"make",
+				"bake",
+				"are baking",
+				"baking",
+				"makes"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9d6e8a8f7ec969c34027fd92b502ed43",
+			"isNew": true
+		},
+		{
+			"text": "Kartoffelsalat",
+			"translations": ["potato salad"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/03e71a41c3eca9e7703eba6382fd7685",
+			"isNew": true
+		},
+		{
+			"text": "nichts",
+			"translations": ["nothing"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c319888b644df0fd1e4e4c8206b9b6ae",
+			"isNew": true
+		},
+		{
+			"text": "am besten",
+			"translations": ["the best", "best"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bf94599f1dea4d1f3ab61185d92998fa",
+			"isNew": true
+		},
+		{
+			"text": "Dezember",
+			"translations": ["December"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/36c88a6d467f2116aa5c7d38d7511c48",
+			"isNew": true
+		},
+		{
+			"text": "Obst",
+			"translations": ["fruit"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/48070cf6900665e14b59bda28b7a4492",
+			"isNew": true
+		},
+		{
+			"text": "Eiskaffee",
+			"translations": [
+				"ice cream coffee",
+				"coffee with ice cream",
+				"iced coffeee",
+				"ice coffee"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/74ab46c18f42f382ff1c28f767ba16da",
+			"isNew": true
+		},
+		{
+			"text": "Lieblingsessen",
+			"translations": ["favorite food", "favourite food"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7a56d159e2d53282119ee848c282a2fb",
+			"isNew": true
+		},
+		{
+			"text": "Dorf",
+			"translations": ["village", "town", "small town"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9806e26ed490e60b541437c46d25b555",
+			"isNew": true
+		},
+		{
+			"text": "Großmutter",
+			"translations": [
+				"grandmother",
+				"grandma",
+				"nan",
+				"grandmom",
+				"granny",
+				"gran",
+				"nana"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3979a524481fad91771e61e94170b159",
+			"isNew": true
+		},
+		{
+			"text": "Großvater",
+			"translations": [
+				"grandfather",
+				"granddad",
+				"grandad",
+				"grandpa",
+				"grampa",
+				"grandpop",
+				"granddaddy",
+				"grandaddy"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b17b53c5e7bd952ab49c8974b64f44d6",
+			"isNew": true
+		},
+		{
+			"text": "Großeltern",
+			"translations": ["grandparents"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/bb27da67ec8de25a404783abdb77d768",
+			"isNew": true
+		},
+		{
+			"text": "Haustiere",
+			"translations": ["pets"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a0dc66acf4eac582b1543ceaf43edc43",
+			"isNew": true
+		},
+		{
+			"text": "Computer",
+			"translations": ["computers", "computer"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7db4fb71322b1c5fc81c38dcb6172640",
+			"isNew": true
+		},
+		{
+			"text": "Juni",
+			"translations": ["June"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/13afc63f89ae1de2ae3eca1f371ee278",
+			"isNew": true
+		},
+		{
+			"text": "arbeitslos",
+			"translations": [
+				"unemployed",
+				"jobless",
+				"out of work",
+				"out of a job"
+			],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/aa39d500621a804f6b1cb93a825b1a71",
+			"isNew": true
+		},
+		{
+			"text": "Auge",
+			"translations": ["eye"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/14e14b7b63caa24917c228c40ff22f0f",
+			"isNew": true
+		},
+		{
+			"text": "Japan",
+			"translations": ["Japan"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1a41fb3bb921f910b39eac354ac24c4f",
+			"isNew": true
+		},
+		{
+			"text": "Auto",
+			"translations": ["car", "auto", "automobile"],
+			"audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/f536e11ae5c75833a5ec71ddaa6a0905",
+			"isNew": true
+		}
+	],
+	"pagination": {
+		"totalLexemes": 858,
+		"requestedPageSize": 100,
+		"pageSize": 100,
+		"previousStartIndex": null,
+		"nextStartIndex": 100
+	}
+}
