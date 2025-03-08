@@ -6,7 +6,7 @@ from writer.writer import write_data
 
 INPUT_PATH = os.path.join(os.path.dirname(__file__), 'values/input.json')
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), 'values/output.csv')
-LATEST_WORD = 'Visum'
+LATEST_WORD = 'touristen'
 
 
 def main() -> None:

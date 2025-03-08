@@ -9,9 +9,9 @@ def filter_values(data: DuolingoResponse, options: FilterOptions | None) -> list
         if options != None and options.get('amount') != None and index > options.get('amount'):
             break
         
-        filtered_data.append(word_response)
-        
         if options != None and options.get('last_word') != None and word_response.get('text').lower() == options.get('last_word').lower():
             break
+        
+        filtered_data.append(word_response)
     
     return filtered_data
