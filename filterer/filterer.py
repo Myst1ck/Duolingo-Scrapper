@@ -6,10 +6,10 @@ def filter_values(data: DuolingoResponse, options: FilterOptions | None) -> list
     filtered_data: list[DuolingoWordResponse] = []
     
     for index, word_response in enumerate(data.get('learnedLexemes')):
-        if options != None and options.get('amount') != None and index > options.get('amount'):
+        if options != None and options.get('amount') != None and index > options.get('amount'): # type: ignore
             break
         
-        if options != None and options.get('last_word') != None and word_response.get('text').lower() == options.get('last_word').lower():
+        if options != None and options.get('last_word') != None and word_response.get('text').lower() == options.get('last_word').lower(): # type: ignore
             break
         
         filtered_data.append(word_response)
