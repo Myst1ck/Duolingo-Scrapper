@@ -1,0 +1,333 @@
+{
+  "learnedLexemes": [
+    {
+      "text": "größer",
+      "translations": ["bigger"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e5c326bde823d33b4c71a6cd8c8a6e03",
+      "isNew": true
+    },
+    {
+      "text": "beide",
+      "translations": ["both"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/eb7cb3a72eb65f6c7cb3e94ba97174ae",
+      "isNew": true
+    },
+    {
+      "text": "stärker",
+      "translations": ["stronger"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/cd3b86302adc9e80f3c5b6cc6074b0b3",
+      "isNew": true
+    },
+    {
+      "text": "klüger",
+      "translations": ["smarter"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c2ea57a1d3b087bed8aebb9de501ba24",
+      "isNew": true
+    },
+    {
+      "text": "aufregender",
+      "translations": ["more exciting"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4671bba030aa425037695758558af633",
+      "isNew": true
+    },
+    {
+      "text": "Töchter",
+      "translations": ["daughters", "daughters'"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/78f1a5a188b1f91d4079c4383f9d974f",
+      "isNew": true
+    },
+    {
+      "text": "Fernsehen",
+      "translations": ["TV", "television", "watching TV"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/214e2322410aa0b0eaf12aab3c3e6bc7",
+      "isNew": true
+    },
+    {
+      "text": "Fußballspielen",
+      "translations": ["playing soccer"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/4a50c5049899f7810e94e452f7b2d351",
+      "isNew": true
+    },
+    {
+      "text": "Fahrradfahren",
+      "translations": ["riding a bike", "bike riding", "biking"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/958e5803936d06bfce6154ef0dc4ad9e",
+      "isNew": true
+    },
+    {
+      "text": "Söhne",
+      "translations": ["sons"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/10179136396b1af0015221a7a0c5d45a",
+      "isNew": true
+    },
+    {
+      "text": "gefährlicher",
+      "translations": ["more dangerous"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ec426a9062d6d8272ecb9c1b19f68b33",
+      "isNew": true
+    },
+    {
+      "text": "netter",
+      "translations": ["nicer"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/82b2d3c0e2f6ae5b5d6ae1fac2479c83",
+      "isNew": true
+    },
+    {
+      "text": "Schwestern",
+      "translations": ["sisters", "sisters'"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b6d3e753ccffd4025ff4dcc62438040d",
+      "isNew": true
+    },
+    {
+      "text": "recht",
+      "translations": ["right", "just"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e595618c9030d5e88f8400a42aeb174d",
+      "isNew": true
+    },
+    {
+      "text": "lustiger",
+      "translations": ["funnier"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d8e6eb7b2c6c7a52fe16a525aaebcfe3",
+      "isNew": true
+    },
+    {
+      "text": "lauter",
+      "translations": ["louder"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6f90954fc47cc49237b38d5754651159",
+      "isNew": true
+    },
+    {
+      "text": "Brüder",
+      "translations": ["brothers", "brothers'"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/11ca35db11b20d9eb3821e288fb02944",
+      "isNew": true
+    },
+    {
+      "text": "spinnen",
+      "translations": ["are ridiculous"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5456e43c9add3f4eb0f7887ddd744c2a",
+      "isNew": true
+    },
+    {
+      "text": "Kochen",
+      "translations": ["cooking", "are cooking", "cook"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5afe4a037284deccf71bde356b636f8a",
+      "isNew": true
+    },
+    {
+      "text": "Aktivitäten",
+      "translations": ["activities"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3002ed7ce17f016eb15444a323c8f616",
+      "isNew": true
+    },
+    {
+      "text": "einfacher",
+      "translations": ["easier"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/d5415c9df5ca30fc608d7f9cc02939f5",
+      "isNew": true
+    },
+    {
+      "text": "Schwimmen",
+      "translations": ["swimming", "swim", "float"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e7d7b26ca59a9f26a2f961c17d0b8d3f",
+      "isNew": true
+    },
+    {
+      "text": "Lesen",
+      "translations": ["reading", "read"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c6a4ebbff7aaa42f75b2f3ad768ab2d6",
+      "isNew": true
+    },
+    {
+      "text": "stimmen",
+      "translations": [
+        "tune",
+        "are right",
+        "are accurate",
+        "are correct",
+        "vote",
+        "are true",
+        "are voting",
+        "are tuning",
+        "voices"
+      ],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a0cd6665e54b77ad8a19b94fbdd37aff",
+      "isNew": true
+    },
+    {
+      "text": "Fahrräder",
+      "translations": ["bicycles", "bikes"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5db1bca8755a45b1c450edf0d085ad1a",
+      "isNew": true
+    },
+    {
+      "text": "Gummibärchen",
+      "translations": ["gummy bears"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/78bc73e3b46bac817d96a8be589b0fab",
+      "isNew": true
+    },
+    {
+      "text": "zustimmen",
+      "translations": ["agree with"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5677bc0960bef31bc8ca817adfc3849f",
+      "isNew": true
+    },
+    {
+      "text": "gesünder",
+      "translations": ["healthier"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/e5d71715d0325092b11ceab0f5f43cbc",
+      "isNew": true
+    },
+    {
+      "text": "Ananas",
+      "translations": ["pineapple"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/032cf14473b823b608a5f4356f5230ab",
+      "isNew": true
+    },
+    {
+      "text": "Katzen",
+      "translations": ["cats", "cats'"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/ac196aee2235e7fc085feae3a6337175",
+      "isNew": true
+    },
+    {
+      "text": "Autos",
+      "translations": ["cars", "car"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/a2bd680d88bb36a95a5ee91f463deee2",
+      "isNew": true
+    },
+    {
+      "text": "meistens",
+      "translations": ["usually"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5abf1c7a4e95522c30ac0381a6cbe6b9",
+      "isNew": true
+    },
+    {
+      "text": "Fahrradhelm",
+      "translations": ["bicycle helmet"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5d88429d4a77c80e87afdb4fdb691538",
+      "isNew": true
+    },
+    {
+      "text": "Straßenbahn",
+      "translations": ["streetcar"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/77e0580bf301170a621a66fcedcd631e",
+      "isNew": true
+    },
+    {
+      "text": "Parkplatz",
+      "translations": ["parking space"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/b33ab18f881c5c8d704154914292615d",
+      "isNew": true
+    },
+    {
+      "text": "Konto",
+      "translations": ["account"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/c0184ad2c53a8406e11a446566638ea7",
+      "isNew": true
+    },
+    {
+      "text": "EC-Karte",
+      "translations": ["debit card"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/00c42e254902ec1a62be315e3b0c92a8",
+      "isNew": true
+    },
+    {
+      "text": "Bankkauffrau",
+      "translations": ["banker", "a banker"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/9dac4ab466c587ac2cf0907e27b73cd7",
+      "isNew": true
+    },
+    {
+      "text": "eröffnen",
+      "translations": ["open"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/5b6d359ff742f96bb1270d897d4a004f",
+      "isNew": true
+    },
+    {
+      "text": "Bankkaufmann",
+      "translations": ["banker"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0875eedb3f32e053b14f8f9223ef1ce3",
+      "isNew": true
+    },
+    {
+      "text": "helfen",
+      "translations": ["help"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/280c3569cfdf85ff3ee057db7e54e9ef",
+      "isNew": true
+    },
+    {
+      "text": "überweisen",
+      "translations": ["transfer"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/3ca8f995b42f1b770cbfb00c0a0dc7a0",
+      "isNew": true
+    },
+    {
+      "text": "bedeutet",
+      "translations": ["mean", "means", "is meaning"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/973952103d6deac706b4041212919352",
+      "isNew": true
+    },
+    {
+      "text": "Ihnen",
+      "translations": ["your", "for you", "them", "you", "to you", "her"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/04dfe67b130e270f9c3646a6592e4301",
+      "isNew": true
+    },
+    {
+      "text": "Wort",
+      "translations": ["word"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6caa862bb05e1585b031a12a3518dfe9",
+      "isNew": true
+    },
+    {
+      "text": "dem",
+      "translations": [
+        "with the",
+        "to the",
+        "the",
+        "that",
+        "whom",
+        "then",
+        "when",
+        "who",
+        "which",
+        "to whom",
+        "with"
+      ],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/7d87a99eab66ed938adfcef3cac17853",
+      "isNew": true
+    },
+    {
+      "text": "Formulare",
+      "translations": ["forms"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0e25443fee624affabeedaf4d6dc649f",
+      "isNew": true
+    },
+    {
+      "text": "verstehen",
+      "translations": ["understood", "understand", "caught"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/1e83602d858aa99f8ce9633113b8cc4b",
+      "isNew": true
+    },
+    {
+      "text": "Fragen",
+      "translations": ["ask", "questions"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/0b824f5d8ed8057dc04c7b61e8e96ebc",
+      "isNew": true
+    },
+    {
+      "text": "Passfoto",
+      "translations": ["passport photo"],
+      "audioURL": "https://d1vq87e9lcf771.cloudfront.net/beade/6821a04388d3364852300f1d32cc30d7",
+      "isNew": true
+    }
+  ],
+  "pagination": {
+    "totalLexemes": 1248,
+    "requestedPageSize": 50,
+    "pageSize": 50,
+    "previousStartIndex": null,
+    "nextStartIndex": 50
+  }
+}
